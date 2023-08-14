@@ -6,6 +6,7 @@ export default class BikeCard extends LightningElement {
   category = "Mountain";
   material = "Steel";
   price = "$2,700";
+  color = "Red";
   pictureUrl =
     "https://s3-us-west-1.amazonaws.com/sfdc-demo/ebikes/electrax4.jpg";
 }
